@@ -1329,7 +1329,8 @@ input, select, textarea {
 				}
 
 			#header .content p {
-				text-transform: uppercase;
+				
+				font-family:Verdana, Geneva, Tahoma, sans-serif;
 				letter-spacing: 0.2rem;
 				font-size: 0.8rem;
 				line-height: 2;
